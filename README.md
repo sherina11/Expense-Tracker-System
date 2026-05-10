@@ -44,6 +44,7 @@ expense.exe
 
 ## 👩‍💻 Author
 - Raja Sherina T
+- CSE Dept
 
 ---
 
