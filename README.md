@@ -1,4 +1,4 @@
-# 💰 Expense Tracker System (C Project)
+# 💰 Expense Tracker System 
 
 ## 📌 Description
 This project is developed using the C programming language.  
